@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **full-stack projects using the MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/OmarHamdann/OmarHamdann](https://github.com/OmarHamdann/OmarHamdann)
+- 👨‍💻 All of my projects are available at [https://github.com/OmarHamdann](https://github.com/OmarHamdann/OmarHamdann)
 
 - 📫 How to reach me **omar.haamdan@gmail.com**
 
