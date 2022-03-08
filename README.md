@@ -47,5 +47,6 @@
 <a href="https://linkedin.com/in/omarhaamdan"><img src="https://img.shields.io/badge/-Omar%20Hamdan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:omar.haamdan@gmail.com"><img src="https://img.shields.io/badge/Omar%20Hamdan-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://codepen.io/omar-labib"><img src="https://img.shields.io/badge/-omar labib-rgb(25 25 25)?style=flat&logo=Codepen&logoColor=white"/></a>
+<a href="https://www.codewars.com/users/OmarHaamdan"><img src="https://img.shields.io/badge/-OmarHaamdan-B1361E?style=flat&logo=codewars&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/omarlabibhamdan"><img src="https://img.shields.io/badge/-OmAr.LaBiB-1ba94c?style=flat&logo=Hackerrank&logoColor=rgb(14 20 30)"/></a>
 </p>
