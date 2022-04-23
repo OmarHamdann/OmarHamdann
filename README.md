@@ -23,7 +23,7 @@
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express&logoColor=000000)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=#FCC624)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=#4479A1)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)&nbsp;\
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman&logoColor=#FF6C37)
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=0769AD)&nbsp;
 ![bash](https://img.shields.io/badge/-bash-05122A?style=flat&logo=GNU%20Bash&logoColor=4EAA25)
