@@ -1,10 +1,7 @@
-<h1 align="left">Hi 👋, I'm Omar hamdan</h1>
+<h1 align="left">Hi 👋, I'm Omar Hamdan</h1>
 <h3 align="left">I am a Full-stack developer who is passionate about solving problems and building creative web Apps, pursue an opportunity with a growing organization that empowers my knowledge.</h3>
 
-
-
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer+;Software+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
