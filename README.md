@@ -19,7 +19,7 @@
 </a>
 </p>
 <div align="center">
-<a href="https://app.daily.dev/DailyDevTips%22%3E"> <img src="https://github.com/OmarHamdann/OmarHamdann/blob/main/devcard.svg" height="300" alt="Omar Hamdan Dev Card"/>
+<a href="https://app.daily.dev/omarhamdann"> <img src="https://github.com/OmarHamdann/OmarHamdann/blob/main/devcard.svg" height="300" alt="Omar Hamdan Dev Card"/>
 </a>
 </div>
 
