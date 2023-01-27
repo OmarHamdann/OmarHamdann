@@ -18,6 +18,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omarhamdann&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<div align="center">
+<a href="https://app.daily.dev/DailyDevTips%22%3E"> <img src="https://github.com/OmarHamdann/OmarHamdann/blob/main/devcard.svg" height="300" alt="Omar Hamdan Dev Card"/>
+</a>
+</div>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -29,3 +34,4 @@
 <a href="https://www.codewars.com/users/OmarHaamdan"><img src="https://img.shields.io/badge/-OmarHaamdan-B1361E?style=flat&logo=codewars&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/omarlabibhamdan"><img src="https://img.shields.io/badge/-OmAr.LaBiB-1ba94c?style=flat&logo=Hackerrank&logoColor=rgb(14 20 30)"/></a>
 </p>
+
